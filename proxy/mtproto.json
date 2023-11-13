@@ -136,6 +136,30 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "178.63.150.146",
+            "port": "8085",
+            "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
+            "name": "@ProxyHagh|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=178.63.150.146&port=8085&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@ProxyHagh|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "178.63.150.145",
+            "port": "7585",
+            "secret": "7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@ProxyHagh|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=178.63.150.145&port=7585&secret=7hYDAQIAAQAB_AMDhuJMOt1zMTAxLmRpdmFyY2RuLmNvbRYDAQIAAQABAAAAAAAAAAAAAAAAAAAAAA&@ProxyHagh|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "94.130.229.59",
             "port": "443",
             "secret": "ee57797f3dab2e5ed85a4becdfb53e31b67777772e636c6f7564666c6172652e636f6d",
@@ -323,18 +347,6 @@
             "name": "@alephproxy|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=137.184.4.171&port=443&secret=dd0ef5d9234ede6c7c6542b9c30d173f94&@alephproxy|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "137.184.4.171",
-            "port": "443",
-            "secret": "ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574",
-            "name": "@alephproxy|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=137.184.4.171&port=443&secret=ee0ef5d9234ede6c7c6542b9c30d173f947777772e7370656564746573742e6e6574&@alephproxy|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
