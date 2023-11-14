@@ -425,18 +425,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "89.208.103.168",
-            "port": "44",
-            "secret": "eec6b5a1da0dfffdc93b29091a9e5f5d287777772e636c6f7564666c6172652e636f6d",
-            "name": "@YekoyekVpn|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=89.208.103.168&port=44&secret=eec6b5a1da0dfffdc93b29091a9e5f5d287777772e636c6f7564666c6172652e636f6d&@YekoyekVpn|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "116.203.248.30",
             "port": "7443",
             "secret": "f123baaf869d32f4a3d126338b37daf1",
