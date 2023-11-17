@@ -28,6 +28,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "shopnoor.ir.spardan.ir.tickl_earn.ir.bouyaart.ir.cheeka.ir.parisanclinic.ir.novbardairy.com.hasanmollaey.ir.aligolbaz.com.vandadrack.ir.ariaeng.me.iranbego.com.richlion.ir.appnita.ir.geor__giaholiday.net.3030box.ir.behdashti.net.skinkala.ir.shab.website",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
+            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=shopnoor.ir.spardan.ir.tickl_earn.ir.bouyaart.ir.cheeka.ir.parisanclinic.ir.novbardairy.com.hasanmollaey.ir.aligolbaz.com.vandadrack.ir.ariaeng.me.iranbego.com.richlion.ir.appnita.ir.geor__giaholiday.net.3030box.ir.behdashti.net.skinkala.ir.shab.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "iran-ebuy.ir.dr-pournasr.com.harounlent.ir.dreshghi.ir.atz.co.ir.ahadpakhsh.com.pegahzanjan.com.epsazar.ir.pranaveg.com.b_ornaapp.com.yasna-law.com.papineh.com.royashahr.com.al_lofweb.ir.negar3d.com.mohromoom.com.farahadaf.ir.iranfujitsu.ir.shab.website",
             "port": "443",
             "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
@@ -322,6 +334,18 @@
             "name": "@proxy_kafee|\ud83c\uddf7\ud83c\uddfa"
         },
         "link": "https:\/\/t.me\/proxy?server=77.246.108.187&port=7980&secret=ee1603010200010001fc030386e24c3add70706c652e636f6d6d792e736861706172616b2e69722d646c2e676f6f676c652e636f6d2d666172616B61762E636F6d190902050004000400000000000000000000000000000000&@proxy_kafee|\ud83c\uddf7\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "137.184.4.171",
+            "port": "443",
+            "secret": "dd0ef5d9234ede6c7c6542b9c30d173f94",
+            "name": "@alephproxy|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=137.184.4.171&port=443&secret=dd0ef5d9234ede6c7c6542b9c30d173f94&@alephproxy|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
