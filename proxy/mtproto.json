@@ -40,6 +40,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "aqlamuna.ir.golshan-ara.com.2001travelagency.com.sep_ano.org.ir.byepolar.ir.persian-gas.ir.labnoor.ir.dgco.ir.sofresin.com.zica.ir.alumparsco.com.organiicproducts.ir.danigoo.ir.saipayadak.org.fxwiner.com.karyabi-safir.ir.nardoonemarket.com.denashop.info",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=aqlamuna.ir.golshan-ara.com.2001travelagency.com.sep_ano.org.ir.byepolar.ir.persian-gas.ir.labnoor.ir.dgco.ir.sofresin.com.zica.ir.alumparsco.com.organiicproducts.ir.danigoo.ir.saipayadak.org.fxwiner.com.karyabi-safir.ir.nardoonemarket.com.denashop.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "178.63.185.186",
             "port": "8085",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
@@ -286,17 +298,5 @@
             "name": "@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
         },
         "link": "https:\/\/t.me\/proxy?server=5.182.87.41&port=2&secret=ee85ab776fab792ada9d6001057be088f97777772e736f667439382e6972&@YekoyekVpn|\ud83c\uddf7\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "128.140.110.30",
-            "port": "7443",
-            "secret": "8c273d0c75233e272dd96c0e9b8657a1",
-            "name": "@ProxyForOpeta|\ud83c\uddee\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=128.140.110.30&port=7443&secret=8c273d0c75233e272dd96c0e9b8657a1&@ProxyForOpeta|\ud83c\uddee\ud83c\uddf7"
     }
 ]
