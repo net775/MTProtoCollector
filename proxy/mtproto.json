@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "drec.ir.pardischap.ir.shahrazmoon.ir.avabeautyacademy.com.tirajeh.center.ict2.ir.royalbiz.net.divangah.ir.amutuav.ir.retirement.ir.barbodparvaz.org.download-yar.ir.rayahin.net.dacmk.ir.arna-trading.com.karyabi-talash.ir.pc115.ir.frotel.biz.neshanapp.sbs",
+            "server": "kheyriealzahra.ir.sekanjabin.ir.khatam-sch.ir.seezan.ir.manadent.net.meroclup.com.chas_hni-co.com.ar_vand-home.ir.khodaverdian.online.do_ryab.com.razenegin.ir.fa__shionsta_r1shop.ir.aras-bazar2.ir.korf.ir.drmehraban.ir.doricdesign.ir.nobitexcompany.site",
             "port": "443",
-            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
-            "name": "@ProxyMTProto|\ud83c\uddec\ud83c\udde7"
+            "secret": "eeda411655b684fe87abf58ec2235e28166b65746161626f6e6c696e652e636f6d",
+            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=drec.ir.pardischap.ir.shahrazmoon.ir.avabeautyacademy.com.tirajeh.center.ict2.ir.royalbiz.net.divangah.ir.amutuav.ir.retirement.ir.barbodparvaz.org.download-yar.ir.rayahin.net.dacmk.ir.arna-trading.com.karyabi-talash.ir.pc115.ir.frotel.biz.neshanapp.sbs&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddec\ud83c\udde7"
+        "link": "https:\/\/t.me\/proxy?server=kheyriealzahra.ir.sekanjabin.ir.khatam-sch.ir.seezan.ir.manadent.net.meroclup.com.chas_hni-co.com.ar_vand-home.ir.khodaverdian.online.do_ryab.com.razenegin.ir.fa__shionsta_r1shop.ir.aras-bazar2.ir.korf.ir.drmehraban.ir.doricdesign.ir.nobitexcompany.site&port=443&secret=eeda411655b684fe87abf58ec2235e28166b65746161626f6e6c696e652e636f6d&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -76,18 +76,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "I__--_A.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.altexsoft.website.",
-            "port": "443",
-            "secret": "7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=",
-            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=I__--_A.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.altexsoft.website.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "137.184.180.132",
             "port": "443",
             "secret": "7mJqJ13kp_mRsVdh2wYCsiJ2YW4ubmFqdmEuY29t",
@@ -106,6 +94,30 @@
             "name": "@v2rayNGNeT|\ud83c\uddf3\ud83c\uddf1"
         },
         "link": "https:\/\/t.me\/proxy?server=109.107.172.216&port=10&secret=3RYDAQIAAQAB_AMDhuJMOt1AAAAAAAAAAAAAAAAAAAAAmYXJha2F2LmNvbQ&@v2rayNGNeT|\ud83c\uddf3\ud83c\uddf1"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "5.75.229.142",
+            "port": "443",
+            "secret": "FgMBAgABAAH8AwOG4kw63RQ=",
+            "name": "@proxy_kafee|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=5.75.229.142&port=443&secret=FgMBAgABAAH8AwOG4kw63RQ=&@proxy_kafee|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "138.201.35.176",
+            "port": "8",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@proxy_kafee|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=138.201.35.176&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==&@proxy_kafee|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
