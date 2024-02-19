@@ -19,9 +19,9 @@
             "server": "now3.let2s.be-gin.we.ar-e.he-re.12-3.456.78-9.111.iran-hosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.net.ejhost.ir.west.com.bhosti.com.gmail.com.google.com.digika-la.com.cloudflare.Slow.Fast.c-om.nott-hisa.countrylivingprimitives.cfd.",
             "port": "8085",
             "secret": "FgMBAgABAAH8AwOG4kw63Q==",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=now3.let2s.be-gin.we.ar-e.he-re.12-3.456.78-9.111.iran-hosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.net.ejhost.ir.west.com.bhosti.com.gmail.com.google.com.digika-la.com.cloudflare.Slow.Fast.c-om.nott-hisa.countrylivingprimitives.cfd.&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=now3.let2s.be-gin.we.ar-e.he-re.12-3.456.78-9.111.iran-hosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.net.ejhost.ir.west.com.bhosti.com.gmail.com.google.com.digika-la.com.cloudflare.Slow.Fast.c-om.nott-hisa.countrylivingprimitives.cfd.&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -46,6 +46,42 @@
             "name": "@Myporoxy|\ud83c\uddeb\ud83c\uddf7"
         },
         "link": "https:\/\/t.me\/proxy?server=57.128.85.52&port=6550&secret=FpABAiIBhwH8AwOG42xL3Q==&@Myporoxy|\ud83c\uddeb\ud83c\uddf7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "95.216.18.34",
+            "port": "3443",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@TelMTProto|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=95.216.18.34&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==&@TelMTProto|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "95.216.9.53",
+            "port": "3443",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@TelMTProto|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=95.216.9.53&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q==&@TelMTProto|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "now3.let2s.be-gin.we.ar-e.he-re.12-3.456.78-9.111.iran-hosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.net.ejhost.ir.west.com.bhostingtalk.ir.xlhost.com.gmail.com.google.com.digika-la.com.cloudflare.Slow.Fast.c-om.nott-hisa.myros.space.",
+            "port": "443",
+            "secret": "7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=",
+            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=now3.let2s.be-gin.we.ar-e.he-re.12-3.456.78-9.111.iran-hosevernserver.ir.hosting.mihanwebhost.com.hostiran.net.irwebhost.net.ejhost.ir.west.com.bhostingtalk.ir.xlhost.com.gmail.com.google.com.digika-la.com.cloudflare.Slow.Fast.c-om.nott-hisa.myros.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -88,12 +124,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "I.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.finnishdesignshop.space.",
-            "port": "443",
-            "secret": "7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=",
-            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
+            "server": "178.63.171.56",
+            "port": "8085",
+            "secret": "FgMBAgABAAH8AwOG4kw63Q==",
+            "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=I.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.finnishdesignshop.space.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20=&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=178.63.171.56&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
