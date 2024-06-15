@@ -1,14 +1,1 @@
-[
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "185.115.161.170",
-            "port": "4443",
-            "secret": "_____________________w",
-            "name": "@proxy_kafee|\ud83c\uddf2\ud83c\udde9"
-        },
-        "link": "https:\/\/t.me\/proxy?server=185.115.161.170&port=4443&secret=_____________________w&@proxy_kafee|\ud83c\uddf2\ud83c\udde9"
-    }
-]
+[]
