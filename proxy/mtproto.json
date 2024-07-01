@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "91.107.236.14",
+            "port": "3443",
+            "secret": "eeRighJJvXrFGRMCIMJdGQ",
+            "name": "@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=91.107.236.14&port=3443&secret=eeRighJJvXrFGRMCIMJdGQ&@ProxyDaemi|\ud83c\udde9\ud83c\uddea"
+    }
+]
