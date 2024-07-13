@@ -16,12 +16,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "my-day.ir.amlakeshahresaheli.com.irancanoon.com.xn----5mckejo83c6tfa.com.vigol-store.ir.shabnam-baf.c-om.nikanjob.ir.parsontime.com.sekanjabin.ir.rent-ija.com.aryaborhan.ir.i-lux.ir.mehrrazavi.com.nashr24.ir.copydvd.ir.isefa.ir.zar2020.ir.asiamodem.asia",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
+            "name": "@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=my-day.ir.amlakeshahresaheli.com.irancanoon.com.xn----5mckejo83c6tfa.com.vigol-store.ir.shabnam-baf.c-om.nikanjob.ir.parsontime.com.sekanjabin.ir.rent-ija.com.aryaborhan.ir.i-lux.ir.mehrrazavi.com.nashr24.ir.copydvd.ir.isefa.ir.zar2020.ir.asiamodem.asia&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddf8\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.rackford.lat.",
             "port": "8770",
             "secret": "eeRigzNJvXrFGRMCIMJdEAPQ",
-            "name": "@ProxyDaemi|\ud83c\uddf7\ud83c\uddf4"
+            "name": "@Myporoxy|\ud83c\uddf7\ud83c\uddf4"
         },
-        "link": "https:\/\/t.me\/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.rackford.lat.&port=8770&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@ProxyDaemi|\ud83c\uddf7\ud83c\uddf4"
+        "link": "https:\/\/t.me\/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.bmi.again_to_fight.everyone.i_am.the_internet.rackford.lat.&port=8770&secret=eeRigzNJvXrFGRMCIMJdEAPQ&@Myporoxy|\ud83c\uddf7\ud83c\uddf4"
     },
     {
         "scheme": "https",
