@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "128.140.13.248",
+            "server": "37.27.8.188",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
+            "name": "@GlypeX|\ud83c\uddeb\ud83c\uddee"
         },
-        "link": "https:\/\/t.me\/proxy?server=128.140.13.248&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=37.27.8.188&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\uddeb\ud83c\uddee"
     },
     {
         "scheme": "https",
@@ -64,6 +64,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "64.52.81.11",
+            "port": "888",
+            "secret": "eeRighJJvXrFGRMCIMJdCQ",
+            "name": "@TelMTProto|\ud83c\uddec\ud83c\udde7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=64.52.81.11&port=888&secret=eeRighJJvXrFGRMCIMJdCQ&@TelMTProto|\ud83c\uddec\ud83c\udde7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "140.233.187.88",
             "port": "888",
             "secret": "eeRighJJvXrFGRMCIMJdCQ",
@@ -76,12 +88,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "140.233.187.94",
-            "port": "888",
-            "secret": "eeRighJJvXrFGRMCIMJdCQ",
-            "name": "@TelMTProto|\ud83c\uddfa\ud83c\uddf8"
+            "server": "pumpiran.com.rabiaapp.com.masoreh.com.omranvila.ir.servicejob.ir.ehsanrastgar.com.drnerd.ir.teredmilonline.com.yousefpad-ganeh.com.bonyadmostazafan.com.sadaf-s-ilver.com.ofv-hotel.com.taghara.ir.golnooshart.ir.draminilab.com.playstationsorenabandar.shop",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=140.233.187.94&port=888&secret=eeRighJJvXrFGRMCIMJdCQ&@TelMTProto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=pumpiran.com.rabiaapp.com.masoreh.com.omranvila.ir.servicejob.ir.ehsanrastgar.com.drnerd.ir.teredmilonline.com.yousefpad-ganeh.com.bonyadmostazafan.com.sadaf-s-ilver.com.ofv-hotel.com.taghara.ir.golnooshart.ir.draminilab.com.playstationsorenabandar.shop&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@MTP_roto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
@@ -118,18 +130,6 @@
             "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=140.233.187.93&port=888&secret=eeRighJJvXrFGRMCIMJdCQ&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "140.233.187.91",
-            "port": "888",
-            "secret": "eeRighJJvXrFGRMCIMJdCQ",
-            "name": "@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
-        },
-        "link": "https:\/\/t.me\/proxy?server=140.233.187.91&port=888&secret=eeRighJJvXrFGRMCIMJdCQ&@ProxyMTProto_tel|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
