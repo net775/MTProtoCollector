@@ -28,6 +28,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "mdyr.ir.behinnet.ir.centersms.ir.insa.ir.unlabelledd.net.themisisland.com.destinamezon.ir.beheshty.ir.avanma.com.gas-cooler-split.com.guardner.ir.otragh.com.beheshty.com.rahnama.co.ir.tiw.al.iranfoam.co.zabanebartar.ir.shahrazma.ir.Nadicakeshomal.online",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=mdyr.ir.behinnet.ir.centersms.ir.insa.ir.unlabelledd.net.themisisland.com.destinamezon.ir.beheshty.ir.avanma.com.gas-cooler-split.com.guardner.ir.otragh.com.beheshty.com.rahnama.co.ir.tiw.al.iranfoam.co.zabanebartar.ir.shahrazma.ir.Nadicakeshomal.online&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.porublack-88.forum.",
             "port": "5777",
             "secret": "eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
