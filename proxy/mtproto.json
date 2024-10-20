@@ -40,6 +40,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "svic.ir.microsoftlab.ir.2lfin.com.dataqueez.ir.foodle.ir.dibemehr-nj.com.bahmanmotors.com.dai-anatravel.ir.biakooh.ir.omranejtemaei.ir.radinex.com.kolije.com.ap724.ir.dorsascarf.ir.digitopkala.com.aryatejarat.com.haditv.biz.cdir.ir.pasargadcompany.store",
+            "port": "443",
+            "secret": "eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972",
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=svic.ir.microsoftlab.ir.2lfin.com.dataqueez.ir.foodle.ir.dibemehr-nj.com.bahmanmotors.com.dai-anatravel.ir.biakooh.ir.omranejtemaei.ir.radinex.com.kolije.com.ap724.ir.dorsascarf.ir.digitopkala.com.aryatejarat.com.haditv.biz.cdir.ir.pasargadcompany.store&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.again_to_fight.everyone.i_am.the_internet.jormakor-rakt.info",
             "port": "441",
             "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS13ZWIuYXBwY2VudGVyLm1zaS0tLS0tLQ",
