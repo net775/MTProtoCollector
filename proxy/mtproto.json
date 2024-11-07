@@ -16,6 +16,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "wqua--sotre.soald-core-i7-ok.quest",
+            "port": "443",
+            "secret": "3fQ1mpsyX_HR5QhN8OD3U3s",
+            "name": "@Lion_MTProto|\ud83c\uddee\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=wqua--sotre.soald-core-i7-ok.quest&port=443&secret=3fQ1mpsyX_HR5QhN8OD3U3s&@Lion_MTProto|\ud83c\uddee\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "142.132.254.26",
             "port": "7143",
             "secret": "7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v",
