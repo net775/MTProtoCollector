@@ -4,12 +4,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "37.27.8.188",
+            "server": "49.13.145.80",
             "port": "443",
             "secret": "3QAAAAAAAAAAAAAAAAAAAAA=",
-            "name": "@GlypeX|\ud83c\uddeb\ud83c\uddee"
+            "name": "@GlypeX|\ud83c\udde9\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=37.27.8.188&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\uddeb\ud83c\uddee"
+        "link": "https:\/\/t.me\/proxy?server=49.13.145.80&port=443&secret=3QAAAAAAAAAAAAAAAAAAAAA=&@GlypeX|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -28,12 +28,48 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "www.2fiveise.makeup",
+            "port": "888",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
+        },
+        "link": "https:\/\/t.me\/proxy?server=www.2fiveise.makeup&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ&@Lion_MTProto|\ud83c\uddeb\ud83c\uddee"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "ilam.ac.ir.taghiakbarzadeh.ir.fxwiner.com.kaghazsilicone.com.apipaserver.ir.pakhsh724.ir.lotusmarket.ir.atlasnaderiklima.com.omran-abshar.com.bakala.ir.law-ir.ir.magasak.ir.rmuk.ir.kadex.ir.faraa.ir.afshinrayaneh.ir.diacoshop.ir.raofikalacompany.website",
+            "port": "443",
+            "secret": "3dpBFlW2hP6Hq_WOwiNeKBY=",
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        },
+        "link": "https:\/\/t.me\/proxy?server=ilam.ac.ir.taghiakbarzadeh.ir.fxwiner.com.kaghazsilicone.com.apipaserver.ir.pakhsh724.ir.lotusmarket.ir.atlasnaderiklima.com.omran-abshar.com.bakala.ir.law-ir.ir.magasak.ir.rmuk.ir.kadex.ir.faraa.ir.afshinrayaneh.ir.diacoshop.ir.raofikalacompany.website&port=443&secret=3dpBFlW2hP6Hq_WOwiNeKBY=&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "amlakeshahresaheli.com.amnk-h-arid.ir.darus-azan.com.bazzarqhate.ir.mrwaatch.ir.topq.ir.ladyan.ir.pkits.ir.anishopnet.ir.studio-aghigh.ir.novinpetclin-ic.ir.behinekartoor-an.com.zabansath.ir.sh-opinsta.ir.digibours.com.hammered.ir.vasledadashvasle.homes.",
             "port": "999",
             "secret": "eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
             "name": "@ProxyMTProto|\ud83c\uddec\ud83c\udde7"
         },
         "link": "https:\/\/t.me\/proxy?server=amlakeshahresaheli.com.amnk-h-arid.ir.darus-azan.com.bazzarqhate.ir.mrwaatch.ir.topq.ir.ladyan.ir.pkits.ir.anishopnet.ir.studio-aghigh.ir.novinpetclin-ic.ir.behinekartoor-an.com.zabansath.ir.sh-opinsta.ir.digibours.com.hammered.ir.vasledadashvasle.homes.&port=999&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxyMTProto|\ud83c\uddec\ud83c\udde7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.dl-yoogle-com.info.",
+            "port": "65",
+            "secret": "7gAA8A8Pd1VV____9QBuLmktLS0tLS13ZWIuYXBwY2VudGVyLm1zaS0tLS0tLQ",
+            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.dl-yoogle-com.info.&port=65&secret=7gAA8A8Pd1VV____9QBuLmktLS0tLS13ZWIuYXBwY2VudGVyLm1zaS0tLS0tLQ&@Myporoxy|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -58,18 +94,6 @@
             "name": "@TelMTProto|\ud83c\uddec\ud83c\udde7"
         },
         "link": "https:\/\/t.me\/proxy?server=www.newworldbbgon.shop.&port=888&secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@TelMTProto|\ud83c\uddec\ud83c\udde7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "www.2fiveise.makeup",
-            "port": "888",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=www.2fiveise.makeup&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ&@TelMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -112,12 +136,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "103.161.35.100",
+            "server": "82.153.35.198",
             "port": "85",
-            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
-            "name": "@proxyhubs|\ud83c\udded\ud83c\uddf0"
+            "secret": "eeRighJJvXrFGRMCIMJdCQ",
+            "name": "@proxyhubs|\ud83c\uddec\ud83c\udde7"
         },
-        "link": "https:\/\/t.me\/proxy?server=103.161.35.100&port=85&secret=eeNEgYdJvXrFGRMCIMJdCQ&@proxyhubs|\ud83c\udded\ud83c\uddf0"
+        "link": "https:\/\/t.me\/proxy?server=82.153.35.198&port=85&secret=eeRighJJvXrFGRMCIMJdCQ&@proxyhubs|\ud83c\uddec\ud83c\udde7"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "82.153.35.184",
+            "port": "85",
+            "secret": "eeRighJJvXrFGRMCIMJdCQ",
+            "name": "@proxyhubs|\ud83c\uddec\ud83c\udde7"
+        },
+        "link": "https:\/\/t.me\/proxy?server=82.153.35.184&port=85&secret=eeRighJJvXrFGRMCIMJdCQ&@proxyhubs|\ud83c\uddec\ud83c\udde7"
     },
     {
         "scheme": "https",
