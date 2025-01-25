@@ -28,6 +28,30 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "14.102.10.155",
+            "port": "8443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxyMTProto|\ud83c\uddf1\ud83c\uddf9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=14.102.10.155&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxyMTProto|\ud83c\uddf1\ud83c\uddf9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "14.102.10.154",
+            "port": "8443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxyMTProto|\ud83c\uddf1\ud83c\uddf9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=14.102.10.154&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxyMTProto|\ud83c\uddf1\ud83c\uddf9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "Sorse.nomazh.4.2.2.4.woovoon.tololop-bomazhin.info.",
             "port": "5777",
             "secret": "FpABAzMBhwH8AwOG6Iyb3Q==",
@@ -145,12 +169,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "14.102.10.141",
+            "server": "14.102.10.156",
             "port": "8443",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
             "name": "@ProxyMTProto_tel|\ud83c\uddf1\ud83c\uddf9"
         },
-        "link": "https:\/\/t.me\/proxy?server=14.102.10.141&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxyMTProto_tel|\ud83c\uddf1\ud83c\uddf9"
+        "link": "https:\/\/t.me\/proxy?server=14.102.10.156&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxyMTProto_tel|\ud83c\uddf1\ud83c\uddf9"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "14.102.10.157",
+            "port": "8443",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
+            "name": "@ProxyMTProto_tel|\ud83c\uddf1\ud83c\uddf9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=14.102.10.157&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxyMTProto_tel|\ud83c\uddf1\ud83c\uddf9"
     },
     {
         "scheme": "https",
