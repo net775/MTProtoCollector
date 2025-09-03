@@ -40,6 +40,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "Hercool-borkar.www.bombo.com.rashkapo.info.",
+            "port": "1201",
+            "secret": "EEABAzJJlbB8AwOG6Ibn8Q",
+            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=Hercool-borkar.www.bombo.com.rashkapo.info.&port=1201&secret=EEABAzJJlbB8AwOG6Ibn8Q&@Myporoxy|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "46.249.110.121",
             "port": "443",
             "secret": "EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
