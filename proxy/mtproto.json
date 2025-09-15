@@ -28,6 +28,18 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
+            "server": "siteimproves.space",
+            "port": "1080",
+            "secret": "79e344818749bd7ac519130220c25d09",
+            "name": "@ProxyHagh|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=siteimproves.space&port=1080&secret=79e344818749bd7ac519130220c25d09&@ProxyHagh|\ud83c\udde9\ud83c\uddea"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
             "server": "140.233.167.4",
             "port": "77777",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
@@ -46,6 +58,18 @@
             "name": "@ProxyDaemi|\ud83c\uddfa\ud83c\uddf8"
         },
         "link": "https:\/\/t.me\/proxy?server=140.233.167.8&port=77777&secret=eeNEgYdJvXrFGRMCIMJdCQ&@ProxyDaemi|\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "Roundcube.email-offers.co.uk.",
+            "port": "8888",
+            "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "name": "@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
+        },
+        "link": "https:\/\/t.me\/proxy?server=Roundcube.email-offers.co.uk.&port=8888&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@ProxyMTProto_tel|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
