@@ -28,42 +28,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "systemfull.gjesus.info",
-            "port": "443",
-            "secret": "ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d",
-            "name": "@TelMTProto|\ud83c\uddee\ud83c\uddf7"
-        },
-        "link": "https:\/\/t.me\/proxy?server=systemfull.gjesus.info&port=443&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d&@TelMTProto|\ud83c\uddee\ud83c\uddf7"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "dodo.dadochi.ir",
-            "port": "155",
-            "secret": "snsjsnsjvXrFGRMCIMJdCQRueWVrdsjskjdjsY29tZmFyYWthdi5jb212YW4ubmFqdmEuY2sosbsjhe",
-            "name": "@PlusMTProto|\ud83c\uddf3\ud83c\uddf1"
-        },
-        "link": "https:\/\/t.me\/proxy?server=dodo.dadochi.ir&port=155&secret=snsjsnsjvXrFGRMCIMJdCQRueWVrdsjskjdjsY29tZmFyYWthdi5jb212YW4ubmFqdmEuY2sosbsjhe&@PlusMTProto|\ud83c\uddf3\ud83c\uddf1"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "lolo.sadochi.ir",
-            "port": "443",
-            "secret": "dndkdndkJJvXrFGRMCIMJdCQRueWVrdGFuZXQuidjdjdbdYjdbdjmFyYWthdi5jb212YW4ubmFqdksbsisbdj",
-            "name": "@PlusMTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=lolo.sadochi.ir&port=443&secret=dndkdndkJJvXrFGRMCIMJdCQRueWVrdGFuZXQuidjdjdbdYjdbdjmFyYWthdi5jb212YW4ubmFqdksbsisbdj&@PlusMTProto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "135.181.206.232",
             "port": "23",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
