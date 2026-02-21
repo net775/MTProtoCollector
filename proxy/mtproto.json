@@ -28,24 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "full.restreams.info.",
-            "port": "42341",
-            "secret": "7nnnAQIAAQAH8AMDhuJMOt0=",
-            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=full.restreams.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0=&@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "www.alo-alo.ink.",
+            "server": "app.x9q.pw",
             "port": "8443",
-            "secret": "dd79e7010200010007f0030386e24c3add",
-            "name": "@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+            "secret": "3XnnAQIAAQAH8AMDhuJMOt0=",
+            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add&@ProxyMTProto|\ud83c\udde9\ud83c\uddea"
+        "link": "https:\/\/t.me\/proxy?server=app.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0=&@ProxyMTProto|\ud83c\uddeb\ud83c\uddf7"
     },
     {
         "scheme": "https",
@@ -76,24 +64,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "paitakht.arasto.info",
-            "port": "443",
-            "secret": "7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
-            "name": "@TelMTProto|\ud83c\udde6\ud83c\uddfa"
-        },
-        "link": "https:\/\/t.me\/proxy?server=paitakht.arasto.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20&@TelMTProto|\ud83c\udde6\ud83c\uddfa"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "yazdan.htop.info",
             "port": "443",
             "secret": "7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20",
             "name": "@TelMTProto|\ud83c\udde6\ud83c\uddfa"
         },
         "link": "https:\/\/t.me\/proxy?server=yazdan.htop.info&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20&@TelMTProto|\ud83c\udde6\ud83c\uddfa"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "www.download-fast.co.uk",
+            "port": "443",
+            "secret": "dd10dadd1e7c27a20098abb5bf53ca26a8",
+            "name": "@TelMTProto|\ud83d\udea9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8&@TelMTProto|\ud83d\udea9"
     },
     {
         "scheme": "https",
@@ -127,9 +115,9 @@
             "server": "saborbash-vasle.minetor.co.uk",
             "port": "443",
             "secret": "3XnnAQIAAQAH8AMDhuJMOt0",
-            "name": "@ProxyHagh|\ud83c\uddeb\ud83c\uddf7"
+            "name": "@ProxyHagh|\ud83c\uddee\ud83c\uddea"
         },
-        "link": "https:\/\/t.me\/proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&@ProxyHagh|\ud83c\uddeb\ud83c\uddf7"
+        "link": "https:\/\/t.me\/proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0&@ProxyHagh|\ud83c\uddee\ud83c\uddea"
     },
     {
         "scheme": "https",
@@ -166,6 +154,18 @@
             "name": "@proxyme|\ud83c\uddf1\ud83c\uddfb"
         },
         "link": "https:\/\/t.me\/proxy?server=dd.tgproxy.today&port=8080&secret=dd4cf9d9103e558ddbe1b73a47771c29f7&@proxyme|\ud83c\uddf1\ud83c\uddfb"
+    },
+    {
+        "scheme": "https",
+        "host": "t.me",
+        "path": "\/proxy",
+        "query": {
+            "server": "www.spsctr.info.",
+            "port": "22",
+            "secret": "7nnnAQIAAQAH8AMDhuJMOt0=",
+            "name": "@ProxyMTProto_tel|\ud83d\udea9"
+        },
+        "link": "https:\/\/t.me\/proxy?server=www.spsctr.info.&port=22&secret=7nnnAQIAAQAH8AMDhuJMOt0=&@ProxyMTProto_tel|\ud83d\udea9"
     },
     {
         "scheme": "https",
