@@ -112,11 +112,11 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "85.133.194.97",
+            "server": "85.133.194.99",
             "port": "6443",
             "secret": "eeNEgYdJvXrFGRMCIMJdCQ",
             "name": "@V2rayng_Fast|\ud83c\udde6\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=85.133.194.97&port=6443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@V2rayng_Fast|\ud83c\udde6\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=85.133.194.99&port=6443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@V2rayng_Fast|\ud83c\udde6\ud83c\uddfa"
     }
 ]
