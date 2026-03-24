@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "a4.ru.nuvira.cc.mtproto.ru",
+            "server": "tg.magproxy.com",
             "port": "443",
-            "secret": "7kcMsriymurfvfii977lyjticm93c2VyLnlhbmRleC5jb20",
-            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+            "secret": "eeb30fc4df699024f7a5dec0b0e66524b165682e766b2e636f6d",
+            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=a4.ru.nuvira.cc.mtproto.ru&port=443&secret=7kcMsriymurfvfii977lyjticm93c2VyLnlhbmRleC5jb20&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=tg.magproxy.com&port=443&secret=eeb30fc4df699024f7a5dec0b0e66524b165682e766b2e636f6d&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
