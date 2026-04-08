@@ -31,9 +31,9 @@
             "server": "proxium.rest",
             "port": "443",
             "secret": "a665a45920422f9d417e4867efdc4fb8",
-            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
         },
-        "link": "https:\/\/t.me\/proxy?server=proxium.rest&port=443&secret=a665a45920422f9d417e4867efdc4fb8&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
+        "link": "https:\/\/t.me\/proxy?server=proxium.rest&port=443&secret=a665a45920422f9d417e4867efdc4fb8&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
     },
     {
         "scheme": "https",
