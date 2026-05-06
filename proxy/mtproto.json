@@ -28,12 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "free-niderl.kimt.space",
+            "server": "win.sosproxy.space",
             "port": "443",
-            "secret": "ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275",
+            "secret": "ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d",
             "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
         },
-        "link": "https:\/\/t.me\/proxy?server=free-niderl.kimt.space&port=443&secret=ee7d025179c3b272e9631a5e2eb313b6b36164732e78352e7275&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
     },
     {
         "scheme": "https",
