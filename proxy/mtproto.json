@@ -16,12 +16,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "nether.nolags.pw",
+            "server": "rus.arixo.shop",
             "port": "443",
-            "secret": "dd0ed82c381c8fccacbe15605dec874662",
-            "name": "@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+            "secret": "eec11798ab008831b474066c9e1ebf5c59617669746f2e7275",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=nether.nolags.pw&port=443&secret=dd0ed82c381c8fccacbe15605dec874662&@ProxyMTProto|\ud83c\uddf3\ud83c\uddf1"
+        "link": "https:\/\/t.me\/proxy?server=rus.arixo.shop&port=443&secret=eec11798ab008831b474066c9e1ebf5c59617669746f2e7275&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",
