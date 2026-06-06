@@ -4,24 +4,24 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "big.shahidpaper.site",
-            "port": "25565",
-            "secret": "ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d",
-            "name": "@Lion_MTProto|\ud83d\udea9"
+            "server": "87.248.129.103",
+            "port": "8443",
+            "secret": "ee1603010200010001fc030386e24c3add646565707365656B2E636F6D",
+            "name": "@Lion_MTProto|\ud83c\uddee\ud83c\uddf7"
         },
-        "link": "https:\/\/t.me\/proxy?server=big.shahidpaper.site&port=25565&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d&@Lion_MTProto|\ud83d\udea9"
+        "link": "https:\/\/t.me\/proxy?server=87.248.129.103&port=8443&secret=ee1603010200010001fc030386e24c3add646565707365656B2E636F6D&@Lion_MTProto|\ud83c\uddee\ud83c\uddf7"
     },
     {
         "scheme": "https",
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "31.56.178.248",
-            "port": "443",
-            "secret": "ee4ce23663740cbaf7be12448a22abd6fe617669746f2e7275",
-            "name": "@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+            "server": "lava.proxyobhod.online",
+            "port": "8443",
+            "secret": "eef4a2f9b8134cfed8c6215de541c06cb46c6176612e70726f78796f62686f642e6f6e6c696e65",
+            "name": "@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
         },
-        "link": "https:\/\/t.me\/proxy?server=31.56.178.248&port=443&secret=ee4ce23663740cbaf7be12448a22abd6fe617669746f2e7275&@ProxyMTProto|\ud83c\uddfa\ud83c\uddf8"
+        "link": "https:\/\/t.me\/proxy?server=lava.proxyobhod.online&port=8443&secret=eef4a2f9b8134cfed8c6215de541c06cb46c6176612e70726f78796f62686f642e6f6e6c696e65&@ProxyMTProto|\ud83c\uddf7\ud83c\uddfa"
     },
     {
         "scheme": "https",
