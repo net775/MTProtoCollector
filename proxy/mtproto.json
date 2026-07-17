@@ -28,18 +28,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "new7.mizanmizanesgh.co.uk",
-            "port": "4455",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=new7.mizanmizanesgh.co.uk&port=4455&secret=dd104462821249bd7ac519130220c25d09&@ProxyMTProto|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "beest-sellerst.co.uk.",
             "port": "443",
             "secret": "eef0eeb0bd9adc4fd4a93994ee3b2a216b63646e2e79656b74616e65742e636f6d",
