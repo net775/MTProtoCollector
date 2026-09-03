@@ -4,18 +4,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "perspolis.goooalir.co.uk",
-            "port": "8443",
-            "secret": "dd104462821249bd7ac519130220c25d09",
-            "name": "@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=perspolis.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09&@Lion_MTProto|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "172.65.122.51",
             "port": "25565",
             "secret": "ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d",
@@ -40,36 +28,12 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "teranhavaei.charkhofalak.info.",
-            "port": "7799",
-            "secret": "dd10400103324995b07c030386e886e7f1",
-            "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=teranhavaei.charkhofalak.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1&@Myporoxy|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "nontanori.noshabekoka.info.",
             "port": "7799",
             "secret": "dd10400103324995b07c030386e886e7f1",
             "name": "@Myporoxy|\ud83c\udde9\ud83c\uddea"
         },
         "link": "https:\/\/t.me\/proxy?server=nontanori.noshabekoka.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1&@Myporoxy|\ud83c\udde9\ud83c\uddea"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
-            "server": "sub.iran-tehran.co.uk.",
-            "port": "443",
-            "secret": "3RBEYoISSb16xRkTAiDCXQk=",
-            "name": "@TelMTProto|\ud83c\udde9\ud83c\uddea"
-        },
-        "link": "https:\/\/t.me\/proxy?server=sub.iran-tehran.co.uk.&port=443&secret=3RBEYoISSb16xRkTAiDCXQk=&@TelMTProto|\ud83c\udde9\ud83c\uddea"
     },
     {
         "scheme": "https",
