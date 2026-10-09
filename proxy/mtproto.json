@@ -52,18 +52,6 @@
         "host": "t.me",
         "path": "\/proxy",
         "query": {
-            "server": "shekargah.kolbar-zahmatkesh.info.",
-            "port": "7799",
-            "secret": "dd10400103324995b07c030386e886e7f1",
-            "name": "@Myporoxy|\ud83c\uddeb\ud83c\uddee"
-        },
-        "link": "https:\/\/t.me\/proxy?server=shekargah.kolbar-zahmatkesh.info.&port=7799&secret=dd10400103324995b07c030386e886e7f1&@Myporoxy|\ud83c\uddeb\ud83c\uddee"
-    },
-    {
-        "scheme": "https",
-        "host": "t.me",
-        "path": "\/proxy",
-        "query": {
             "server": "bookmook.hichibehichi-co.info.",
             "port": "2882",
             "secret": "dd10400103324995b07c030386e886e7f1",
